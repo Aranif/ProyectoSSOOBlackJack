@@ -12,6 +12,11 @@
 
 #define NO_HAYCARTA 0
 
+#define AS1 1
+#define AS2 11
+
+#define FIGURA 10
+
 typedef struct{
     int buffer[4][13];
     int jugadores; 
